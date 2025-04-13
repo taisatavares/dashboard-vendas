@@ -5,7 +5,8 @@ Aqui podemos analisar um Dashboard de vendas que informa sobre faturamentos, qua
 Este projeto foi desenvolvido utilizando Power BI para análise de dados de vendas de uma empresa fictícia.
 
 ## 🔗 Acesse o dashboard online:
-👉 https://app.powerbi.com/view?r=eyJrIjoiZDNjMzgyM2QtNDRmYS00YWFhLTllZGMtN2MwODJiNWMyYzRhIiwidCI6ImIxZWQxYzRjLTg5MTctNDM4Mi1hZDA2LTcyZTU2Y2NjOWVhYSJ9
+👉 [Clique aqui para visualizar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTdmZWRlN2ItYjQxZS00ODliLTgyNzgtNDY5NTBlODNiNjg0IiwidCI6IjUwZjEzZWI1LTJjYTAtNDc3Ni1iMmRkLTBhM2RhYjMwZDY3NiJ9)
+
 ## 🎯 Objetivo do Projeto
 
 - Visualizar o desempenho de vendas por região
